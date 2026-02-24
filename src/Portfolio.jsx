@@ -472,7 +472,7 @@ function About({ t }) {
             alignItems: "center", justifyContent: "center", maxWidth: 280, position: "relative", overflow: "hidden",
             transition: "background .4s, border-color .4s",
           }}>
-            <img src="public/Adi.jpeg"
+            <img src="/Aditya_Chopra/Adi.jpeg"
             alt="Aditya Chopra"
             style={{
               width: "100%",
