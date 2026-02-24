@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import Adi from "../assets/Adi.jpeg";
+import Adi from "./assets/Adi.jpeg";
 
 /* ═══════════════════════════════════════════════
    THEME TOKENS
