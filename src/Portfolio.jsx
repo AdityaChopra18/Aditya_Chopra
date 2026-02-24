@@ -703,7 +703,7 @@ function Contact({ t }) {
   const contacts = [
     { icon: "📧", label: "Email",    value: ME.email,    href: `mailto:${ME.email}` },
     { icon: "📍", label: "Location", value: "Ajmer, India", href: null },
-    // { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/aditya-chopra-972688269", href: ME.linkedin },
+    { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/aditya-chopra-972688269", href: ME.linkedin },
     { icon: "⏰", label: "Timezone", value: "UTC+5:30 · IST", href: null },
   ];
 
@@ -753,7 +753,7 @@ function Contact({ t }) {
                       <a href={href} style={{
                         color: t.accent, textDecoration: "none",
                         fontSize: ".9rem", fontWeight: 600,
-                        transition: "opacity .2s",
+                        transition: "opacity .2s", wordBreak: "break-word", overflowWrap: "break-word",
                       }}
                         onMouseEnter={e => e.currentTarget.style.opacity = ".7"}
                         onMouseLeave={e => e.currentTarget.style.opacity = "1"}>
