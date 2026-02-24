@@ -122,7 +122,7 @@ const PROJECTS = [
 ];
 
 const TIMELINE = [
-  { date: "2025 – PRESENT", role: "Data Science Intern",    company: " · Internship",    desc: "Leading AI product development, LLM-powered features & ML pipelines serving 1M+ users." },
+  // { date: "2025 – PRESENT", role: "Data Science Intern",    company: " · Internship",    desc: "Leading AI product development, LLM-powered features & ML pipelines serving 1M+ users." },
   // { date: "2022 – 2024",    role: "Full Stack Developer",   company: "StartupXYZ · Full-time",        desc: "Built and shipped the entire web platform from scratch. Led a team of 3 engineers." },
   { date: "2024 – 2024",    role: "Web Development Intern", company: "SkillCraft Technology · Internship",  desc: "Worked on building responsive UI components." },
   { date: "2021 – 2025",    role: "B.Tech. Information Tchnology", company: "Bikaner Technical University · Degree",      desc: "Graduated with 8.91 CGPA." },
