@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import Adi from "../assets/Adi.jpeg";
 
 /* ═══════════════════════════════════════════════
    THEME TOKENS
@@ -472,8 +473,7 @@ function About({ t }) {
             alignItems: "center", justifyContent: "center", maxWidth: 280, position: "relative", overflow: "hidden",
             transition: "background .4s, border-color .4s",
           }}>
-            <img src="/Aditya_Chopra/Adi.jpeg"
-            alt="Aditya Chopra"
+            <img src={Adi} alt="Aditya Chopra"
             style={{
               width: "100%",
               height: "100%",
