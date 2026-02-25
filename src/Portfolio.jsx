@@ -83,7 +83,7 @@ const PROJECTS = [
     title: "StockSense ML",
     desc:  "Time-series forecasting for stocks using LSTM & Transformer architectures — 78% directional accuracy.",
     tags:  ["PyTorch","Pandas"],
-    link:  "#",
+    link:  "https://github.com/AdityaChopra18/MARKET_PREDICTOR.git",
   },
   {
     emoji: "🌍", type: "Web · Full Stack",
