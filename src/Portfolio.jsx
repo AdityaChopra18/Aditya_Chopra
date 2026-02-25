@@ -80,8 +80,8 @@ const PROJECTS = [
   // },
   {
     emoji: "📈", type: "ML · Finance",
-    title: "StockSense ML",
-    desc:  "Time-series forecasting for stocks using LSTM & Transformer architectures — 78% directional accuracy.",
+    title: "Stock Market Predictor",
+    desc:  "Time-series forecasting for stocks using Xboost & Random Forest — 50% directional accuracy.",
     tags:  ["PyTorch","Pandas"],
     link:  "https://github.com/AdityaChopra18/MARKET_PREDICTOR.git",
   },
