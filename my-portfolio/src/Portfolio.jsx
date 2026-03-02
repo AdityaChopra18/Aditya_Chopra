@@ -90,7 +90,7 @@ const PROJECTS = [
     title: "Movierater",
     desc:  "Handelling SignUp, Login, jwt authentication,deployed on vercel and render, with anti-review bombing system.",
     tags:  ["React","MongoDB","Express","Node.js"],
-    link:  "https://github.com/AdityaChopra18/Aarya.git",
+    link:  "https://github.com/AdityaChopra18/movie-rating-app.git",
   },
   {
     emoji: "👁️", type: "ML · Computer Vision",
