@@ -93,6 +93,13 @@ const PROJECTS = [
     link:  "https://github.com/AdityaChopra18/Aarya.git",
   },
   {
+    emoji: "🌍", type: "Web · Mern Stack",
+    title: "Movie Rating Platform",
+    desc:  "A movie and TV show rating platform built with the MERN stack. Features OTP-based email verification, a recommendation engine that learns from your taste, and an anti-review bombing system that automatically detects and flags suspicious rating activity.",
+    tags:  ["React","MongoDB","Express","Node.js"],
+    link:  "https://github.com/AdityaChopra18/movie-rating-app.git",
+  },
+  {
     emoji: "👁️", type: "ML · Computer Vision",
     title: "Traffic Management System",
     desc:  "Real-time object detection & tracking with YOLOv8 model, deployed as a IOT System with live webcam feed.",
