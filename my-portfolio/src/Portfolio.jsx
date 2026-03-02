@@ -85,10 +85,17 @@ const PROJECTS = [
     tags:  ["PyTorch","Pandas"],
     link:  "https://github.com/AdityaChopra18/MARKET_PREDICTOR.git",
   },
-    {
-    emoji: "🌍", type: "Web · MERN Stack",
-    title: "Movierater",
-    desc:  "Handelling SignUp, Login, jwt authentication,deployed on vercel and render, with anti-review bombing system.",
+  {
+    emoji: "🌍", type: "Web · Full Stack",
+    title: "Web Platform for Literature Fest",
+    desc:  "Handelling registerations, Schedule Management of 300+ participants, with Admin portal",
+    tags:  ["Next.js","Socket.io"],
+    link:  "https://github.com/AdityaChopra18/Aarya.git",
+  },
+  {
+    emoji: "🌍", type: "Web · Mern Stack",
+    title: "Movie Rating Platform",
+    desc:  "A movie and TV show rating platform built with the MERN stack. Features OTP-based email verification, a recommendation engine that learns from your taste, and an anti-review bombing system that automatically detects and flags suspicious rating activity.",
     tags:  ["React","MongoDB","Express","Node.js"],
     link:  "https://github.com/AdityaChopra18/movie-rating-app.git",
   },
