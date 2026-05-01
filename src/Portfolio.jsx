@@ -71,13 +71,13 @@ const SKILLS = [
 ];
 
 const PROJECTS = [
-  // {
-  //   emoji: "🧠", type: "AI · NLP",
-  //   title: "SmartChat Engine",
-  //   desc:  "Fine-tuned LLM chatbot with RAG pipeline for domain-specific Q&A. Built with LangChain, FastAPI, and React.",
-  //   tags:  ["Python","LangChain","React"],
-  //   link:  "#",
-  // },
+  {
+    emoji: "🧠", type: "AI · NLP",
+    title: "WildLens",
+    desc:  "Fine-tuned EfficientNetB2 on 25 Indian bird species achieving 99.24% accuracy; deployed as a full-stack web app with FastAPI + React on Hugging Face Spaces & Vercel.",
+    tags:  ["Python","React"],
+    link:  "https://github.com/AdityaChopra18/wildlens.git",
+  },
   {
     emoji: "📈", type: "ML · Finance",
     title: "Stock Market Predictor",
