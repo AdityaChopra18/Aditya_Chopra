@@ -77,15 +77,13 @@ const PROJECTS = [
     desc:  "Contributed a Lévy-flight hyperparameter sampler to optuna/optunahub-registry implementing the Mantegna algorithm with edge case handling at β=2.0; PR # 367 merged.",
     tags:  ["Python","Optuna"],
     link:  "https://hub.optuna.org/samplers/levy_flight_sampler/",
-    github: "https://github.com/optuna/optunahub-registry/tree/963d89b2a58a72dfcc7da3616d0111e0ed448f2b/package/samplers/levy_flight_sampler"
   },
   {
     emoji: "🧠", type: "AI · Computer Vision",
     title: "WildLens",
     desc:  "Fine-tuned EfficientNetB2 on 25 Indian bird species achieving 99.24% accuracy; deployed as a full-stack web app with FastAPI + React on Hugging Face Spaces & Vercel.",
-    tags:  ["Python","React"],
-    link:  "https://github.com/AdityaChopra18/wildlens.git",
-    demo: "https://wildlens-tawny.vercel.app",
+    tags:  ["Python","FastAPI", "React", "PyTorch"],
+    link:  "https://wildlens-tawny.vercel.app",
   },
   {
     emoji: "📈", type: "ML · Finance",
