@@ -71,8 +71,15 @@ const SKILLS = [
 ];
 
 const PROJECTS = [
+   {
+    emoji: "🧠", type: "AI · ML",
+    title: "LevyFlightSampler ",
+    desc:  "Contributed a Lévy-flight hyperparameter sampler to optuna/optunahub-registry implementing the Mantegna algorithm with edge case handling at β=2.0; PR # 367 merged.",
+    tags:  ["Python","Optuna"],
+    link:  "https://hub.optuna.org/samplers/levy_flight_sampler/",
+  },
   {
-    emoji: "🧠", type: "AI · NLP",
+    emoji: "🧠", type: "AI · Computer Vision",
     title: "WildLens",
     desc:  "Fine-tuned EfficientNetB2 on 25 Indian bird species achieving 99.24% accuracy; deployed as a full-stack web app with FastAPI + React on Hugging Face Spaces & Vercel.",
     tags:  ["Python","React"],
@@ -113,13 +120,6 @@ const PROJECTS = [
     tags:  ["OpenCV"],
     link:  "https://github.com/AdityaChopra18/8-sem-project.git",
   },
-  // {
-  //   emoji: "🔒", type: "Web · Security",
-  //   title: "SecureAuth SDK",
-  //   desc:  "Open-source auth SDK with MFA, biometrics, and OAuth2. Downloaded 10k+ times on npm.",
-  //   tags:  ["Node.js","JWT"],
-  //   link:  "#",
-  // },
   // {
   //   emoji: "🎙️", type: "AI · Audio",
   //   title: "VoiceGen Studio",
